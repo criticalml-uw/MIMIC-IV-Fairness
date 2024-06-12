@@ -1,2 +1,2 @@
 # MIMIC-IV-Fairness
-A systematic analysis of fairness properties of models on MIMIC IV
+This repository contains all the code for the paper "Advancing Trust in Real-World Healthcare AI: A Framework for Enhanced Transparency and Fairness". 
